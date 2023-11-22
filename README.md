@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <meta charsed="UTF-8">
-    <title>Loja de Ar</tiile>
+    <title>Loja de Ar</title>
   </head>
   <body>
     <h1>Sobre a Loja de Ar</h1>
