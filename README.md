@@ -4,7 +4,8 @@
     <meta charsed="UTF-8">
     <title>Loja de Ar</title>
   </head>
-  <body>
+  
+   <body>
     <h1>Sobre a Loja de Ar</h1>
 
   <p>Localizada no coração da cidade de Boa Esperança a <strong>Loja de Ar</strong> traz para o mercado muita inovação e alegria. 
